@@ -1,8 +1,9 @@
 ### Hi there 👋 My name is Arni Nalawade
 
-- 🔭 I’m currently a student completing my Bachelors in Mechtronics at the University of Waterloo
+- 🔭 I’m currently a student completing my Bachelors in Mechatronics at the University of Waterloo
 - 🌱 I love learning new softwares and creating fun projects with them
 - 👯 I’m looking to collaborate on Hackathons
+- 📫 Connect with me via my LinkedIn: www.linkedin.com/in/arni-nalawade/
 - 📫 How to reach me: Using my email: avnalawa@uwaterloo.ca
 - 😄 Pronouns: She/her
 
