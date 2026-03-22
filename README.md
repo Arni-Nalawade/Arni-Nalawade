@@ -4,7 +4,7 @@
 - 🌱 I love learning new softwares and creating fun projects with them
 - 👯 I’m looking to collaborate on Hackathons
 - 📫 Connect with me via my LinkedIn: www.linkedin.com/in/arni-nalawade/
-- 📫 How to reach me: Using my email: avnalawa@uwaterloo.ca
+- 📫 How to reach me: Using my email: avnalawa@uwaterloo.ca or arni.nalawade@gmail.com
 - 😄 Pronouns: She/her
 
 <!--
